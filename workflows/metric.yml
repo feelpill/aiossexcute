@@ -1,6 +1,6 @@
 name: Track Lead Time
 on:
-pull_request:
+pull_request: 
 types: [closed]
 
 jobs:
